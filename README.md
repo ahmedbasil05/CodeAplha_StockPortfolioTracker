@@ -1,6 +1,8 @@
 📈 Stock Portfolio Tracker | Task 2 – Code Alpha Internship
 
-This is a simple command-line based Stock Portfolio Tracker developed as Task 2 during my internship at Code Alpha. The program allows users to input stock holdings, calculates the total investment value based on predefined stock prices, and offers an option to export the result as a CSV file.
+🎯 Purpose
+
+The goal of this project is to simulate a basic stock portfolio calculator that mimics real-world portfolio tracking using Python fundamentals. This project is designed to reinforce key programming concepts in a practical, user-driven environment.
 
 ✅ Features
 
@@ -62,5 +64,7 @@ Portfolio saved as 'portfolio_20250705_142530.csv'
 📌 Internship Credit
 
 This project was completed as Task 2 of my internship at Code AlphaA great learning opportunity to apply programming fundamentals in a practical, finance-oriented scenario.
+
+Special thanks to the mentors and the Code Alpha team for their guidance and support throughout the task.
 
 
